@@ -12,7 +12,7 @@ info@dlfgroup.com
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
 <ion-icon name="logo-instagram"></ion-icon>
-<ion-icon name="logo-pinterest"></ion-icon>
+# <ion-icon name="logo-pinterest"></ion-icon>
 
 Add Listing
 
