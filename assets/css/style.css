@@ -1418,7 +1418,7 @@ button, a { transition: var(--transition); }
   }
 
   .hero .container {
-    display: grid;
+    /** display: grid; */
     grid-template-columns: 1fr 1fr;
     align-items: center;
   }
@@ -1657,7 +1657,7 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  /** max-width: 1000px; */
   position: relative;
   margin: auto;
 }
