@@ -1307,7 +1307,7 @@ button, a { transition: var(--transition); }
 
   .about .section-title { max-width: 30ch; }
 
-  .about-text { max-width: 55ch }
+  /* .about-text { max-width: 55ch } */
 
   .about-list {
     display: grid;
