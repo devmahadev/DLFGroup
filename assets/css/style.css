@@ -343,7 +343,7 @@ button, a { transition: var(--transition); }
   padding-block: 25px;
 }
 
-.header-bottom .logo img { margin-inline: auto;}
+.header-bottom .logo img { margin-inline: auto; width: 40%;}
 
 .navbar {
   background: var(--white);
@@ -1578,7 +1578,7 @@ button, a { transition: var(--transition); }
 
   .header { padding-bottom: 114px; }
 
-  .header-bottom .logo img { margin-inline: auto;}
+  .header-bottom .logo img { margin-inline: auto; width: 56px;}
 
   .header-bottom {
     position: absolute;
