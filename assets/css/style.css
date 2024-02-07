@@ -343,7 +343,7 @@ button, a { transition: var(--transition); }
   padding-block: 25px;
 }
 
-.header-bottom .logo img { margin-inline: auto;}
+.header-bottom .logo img { margin-inline: auto; width: 53px; height: 55px;}
 
 .navbar {
   background: var(--white);
@@ -1159,6 +1159,9 @@ button, a { transition: var(--transition); }
     margin-inline: auto;
   }
 
+  .header-bottom .logo img { margin-inline: auto; width: 40%;}
+
+
   .has-scrollbar {
     gap: 25px;
     margin-inline: -25px;
@@ -1263,6 +1266,8 @@ button, a { transition: var(--transition); }
   .header-top-social-link { font-size: 1rem; }
 
   .header-top-btn { padding: 10px 20px; }
+
+  .header-bottom .logo img { margin-inline: auto; width: 40%;}
 
   .header-bottom-actions {
     all: unset;
@@ -1575,7 +1580,7 @@ button, a { transition: var(--transition); }
 
   .header { padding-bottom: 114px; }
 
-  .header-bottom .logo img { margin-inline: auto; width: 40%;}
+  .header-bottom .logo img { margin-inline: auto;}
 
   .header-bottom {
     position: absolute;
