@@ -1423,6 +1423,11 @@ button, a { transition: var(--transition); }
     align-items: center;
   }
 
+  .hero .container .overlay {
+    z-index: 9;
+    margin: 30px;
+    background: #009938;
+  }
 
 
   /**
