@@ -1547,6 +1547,10 @@ button, a { transition: var(--transition); }
 
   .container { max-width: 1200px; }
 
+  .mySlides > img {
+    max-height: 500px;
+  }
+
   .has-scrollbar > li { min-width: calc(33.33% - 16.66px); }
 
 
